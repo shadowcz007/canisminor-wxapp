@@ -1,12 +1,12 @@
 {
 	"about": {
-		"introduction": "现居北京，UED全栈设计师，毕业于CAA中国美术学院09级视觉传达。6年从业经验，专注于 Design » Code 设计流程管理, Atomic Design 设计模式及自动化设计，具备流行前端技术栈 React / Vue ( 阿里开源项目重度用户 Antd / Dva / Roadhog )，Sketch第三方插件作者。",
+		"introduction": "介绍自己的一段话",
 		"showcase": [{
-			"title": "birth:",
-			"desc": "1990.9.30"
+			"title": "生日",
+			"desc": "2000-12-12"
 		}, {
-			"title": "mobile:",
-			"desc": "153-0585-3008"
+			"title": "手机",
+			"desc": "13333333333"
 		}, {
 			"title": "e-mail:",
 			"desc": "i@canisminor.cc"
